@@ -3,9 +3,6 @@
 # Purpose: To clarify the purpose and responsible usage of the tool.
 # Author: CodedNomad
 
-"""
-simple-dos Repository README
-
 Disclaimer:
 =============
 This repository contains a tool named 'simple-dos', which is intended for educational purposes only.
