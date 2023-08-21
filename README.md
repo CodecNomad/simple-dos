@@ -1,8 +1,7 @@
 # Title: simple-dos README
 # Description: This README provides information about the 'simple-dos' tool repository.
 # Purpose: To clarify the purpose and responsible usage of the tool.
-# Author: [Your Name]
-# Date: [Date]
+# Author: CodedNomad
 
 """
 simple-dos Repository README
@@ -27,33 +26,6 @@ Usage Guidelines:
 4. Respect Legal Boundaries: Ensure that your usage complies with all applicable laws and regulations.
 5. No Unauthorized Access: Use this tool only on systems and networks for which you have explicit permission.
 
-Code Example:
-==============
-# The following code snippet demonstrates how to use 'simple-dos' to send an HTTP GET request.
-
-import socket
-
-# Target server details
-target_host = "example.com"
-target_port = 80
-
-# Create a socket object
-client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-
-# Connect to the server
-client_socket.connect((target_host, target_port))
-
-# Craft and send an HTTP GET request
-request = "GET / HTTP/1.1\r\nHost: {}\r\n\r\n".format(target_host)
-client_socket.send(request.encode())
-
-# Receive and print the response
-response = client_socket.recv(4096)
-print(response.decode())
-
-# Close the socket
-client_socket.close()
-
 Feedback:
 =========
 Your feedback is valuable. If you have suggestions for improvements or corrections, please feel free to
@@ -61,8 +33,7 @@ contribute to this repository by submitting a pull request.
 
 Remember, the 'simple-dos' tool is meant for educational purposes. Be responsible and ethical in your usage.
 
-[Your Contact Information]
-[Optional: Other Relevant Links or Resources]
+codecnomad
 """
 
 # End of README
