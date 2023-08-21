@@ -32,7 +32,7 @@ Your feedback is valuable. If you have suggestions for improvements or correctio
 contribute to this repository by submitting a pull request.
 
 Remember, the 'simple-dos' tool is meant for educational purposes. Be responsible and ethical in your usage.
-
+"""
 codecnomad
 """
 
